@@ -1,6 +1,6 @@
 # VisionGuard: AI-Powered Online Exam Proctoring System:
 
-# Project Overview:
+## Project Overview:
 
 VisionGuard is an AI-powered online examination monitoring system designed to enhance academic integrity during remote assessments. The system uses Computer Vision and Machine Learning techniques to track candidate behavior through a webcam and identify potential cheating indicators in real time.
 By leveraging MediaPipe Face Mesh, Head Pose Estimation, and Eye Gaze Tracking, the application establishes a baseline profile of a candidate and continuously monitors deviations during an examination. Suspicious behaviors such as looking away from the screen, excessive head movement, or abnormal gaze patterns can be detected and flagged automatically.
